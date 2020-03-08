@@ -27,7 +27,7 @@ Below you will find anything you need to know. If you want to download a build y
 
 ## 🎓 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the GNU GPL v3 License - see the [LICENSE](LICENSE) file for details
 
 [discordImg]: https://img.shields.io/discord/671902942466408478.svg?logo=discord&logoWidth=18&colorB=7289DA&style=for-the-badge
 [discordLink]: https://discord.gg/F55qYKm
