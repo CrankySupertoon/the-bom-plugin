@@ -1,7 +1,7 @@
 # Bill of Materials [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
 
-**Bill of Materials** adds a new tab to JEI's recipe screen that shows the item you are trying to make, broken down into all the components needed to craft it.
+**Bill of Materials** adds a new tab to Just Enough Items's recipe screen that shows the item you are trying to make, broken down into all the components needed to craft it.
 
 
 
@@ -16,8 +16,16 @@ Below you will find anything you need to know. If you want to download a build y
 
 - Tooltip shows number of stacks needed
 
+## ⚙️ Dependencies 
+Bill of Materials depends on [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 
-## 🚀 Built and managed with 
+## ⬇️ Downloads
+Latest: [Can be found here](https://www.curseforge.com/minecraft/mc-mods/thebomplugintoys)
+
+## 📦 Modpacks
+* Sure, provide a link to this github or [here](https://www.curseforge.com/minecraft/mc-mods/thebomplugin).
+
+## 🗝 Built and managed with 
 
 * [Github](http://www.github.com/) - Git Service
 * [IntellIJ IDEA 2019.3](https://www.jetbrains.com/idea/download/) - IDE
